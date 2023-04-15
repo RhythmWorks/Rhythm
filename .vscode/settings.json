@@ -1,0 +1,19 @@
+{
+    "robloxLsp.diagnostics.disable": [
+        1029,
+        1029,
+        1002,
+        1029,
+        1029,
+        1029,
+        1002,
+        1002,
+        "undefined-global"
+    ],
+    "robloxLsp.diagnostics.globals": [
+        "http_request",
+        "getgenv",
+        "_ENV",
+        "NaN"
+    ]
+}
